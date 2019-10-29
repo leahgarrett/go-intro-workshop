@@ -7,13 +7,13 @@
 
 [02 Hello World](./02_hello_world.md)
 
-[Strings and user input](./03_strings_and_user_input.md)
+[03 Strings and user input](./03_strings_and_user_input.md)
 
-[Loops](./04_loops.md)
+[04 Loops](./04_loops.md)
 
-[Slices](./06_slices.md)
+[05 Slices](./06_slices.md)
 
-[json](./06_json.md)
+[06 json](./06_json.md)
 
 
 ## Next Steps
