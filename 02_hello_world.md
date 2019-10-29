@@ -147,8 +147,8 @@ Formatting decimal places
 
 The output should look like  
 ```
-88.00 fahrenheit to celsius 190.40
-32.00 fahrenheit to celsius 89.60
-0.00 fahrenheit to celsius 32.00
-38.00 fahrenheit to celsius 100.40
+88.00 celsius to fahrenheit 190.40
+32.00 celsius to fahrenheit 89.60
+0.00 celsius to fahrenheit 32.00
+38.00 celsius to fahrenheit 100.40
 ```
