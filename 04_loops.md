@@ -79,7 +79,7 @@ How would we change this to count down?
 ## Practice  
 
 ### Temperature
-Extend the following temperature example to ask for the temperature and display the converted temperature in a loop 5 times.
+Extend the following temperature example to loop 5 times asking for the temperature and displaying the converted temperature 5 times.
 
 ```go
 package main
