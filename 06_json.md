@@ -85,7 +85,7 @@ Add these values to the `Println` in the `for` loop.
 
 Add an `if` to the `for` loop to only display users with names longer then 5.
 
-Update your mock data  by copying the 1000 record data file [./data/mock_data.json](./data/mock_data.json)
+Update your mock data  by copying the 1000 record data file [./data/mock_data.json](https://github.com/leahgarrett/go-intro-workshop/blob/master/data/MOCK_DATA.json)
 
 Create a `for` loop that will display only Users from Australia.
 
