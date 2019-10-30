@@ -156,3 +156,5 @@ Try commented out the following line and run and test.
 `rand.Seed(time.Now().UnixNano())`
 
 Change the `Guess the random number?` message to also display the maximum and minimum values. 
+
+Use `if` statements to check the value and display message for 'too high' and 'too low'
