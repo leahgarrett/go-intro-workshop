@@ -11,7 +11,7 @@
 
 [04 Loops](./04_loops.md)
 
-[05 Slices](./06_slices.md)
+[05 Slices](./05_slices.md)
 
 [06 json](./06_json.md)
 
