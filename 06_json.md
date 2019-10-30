@@ -3,8 +3,9 @@
 This example uses a `json` data file.  
 [What is JSON?](https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it)
 
+Create a new repl and call it `json`
 
-Create a new file in your repl called `mock_data.json`
+Add a new file in your repl called `mock_data.json`
 Copy the contents of the following into the file 
 ```json
 {"users": 
@@ -20,7 +21,7 @@ Copy the contents of the following into the file
   {"id":10,"first_name":"Arlen","last_name":"Garrish","email":"agarrish9@vimeo.com","address":"68860 Summit Court","city":"Uppsala","country":"Sweden","skill":"Organic Chemistry"}]
   }
   ```
-
+In `main.go` add the following code
 
 ```go
 package main
