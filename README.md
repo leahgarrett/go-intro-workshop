@@ -15,10 +15,13 @@
 
 [06 json](./06_json.md)
 
-Step by Step using a Weather API 
+Step by Step using a Weather API   
 http://bit.ly/ShortGolangWorkshop
 
 ## Next Steps
+
+Go slack . 
+https://invite.slack.golangbridge.org/    
 
 A step by step guide of Go:  
 [A Tour of Go](https://tour.golang.org/welcome/1)  
