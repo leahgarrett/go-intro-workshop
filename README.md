@@ -1,28 +1,4 @@
 
-This workshop was part of [GopherConAU 2019](https://gophercon.com.au/)
-
-
-### Intro to Go for Complete Beginners
-*WORKSHOP*
-#### Description
-An introduction with lots of hands on practice
-- Development Environment
-- Programming Fundamentals
-- An introduction to the basic syntax of the language
-- Debugging
-
-#### Prerequisites
-None! If you already know, how to code, please consider William’s or/and Gary’s workshops.
-What an attendee is expected to learn
-- Learning in a friendly environment
-- The initial setup to get started with Go
-  
-<br />  
-
-<hr />
-
-<br />
-  
 # Intro to Go for Complete Beginners Workshop
 
 [00 Introduction](./00_introduction.md)
@@ -53,3 +29,32 @@ A step by step guide of Go:
 A collections of exercises with mentor reviews:  
 [exercism](https://exercism.io/my/tracks/go)
 
+  
+
+<br />  
+
+<hr />
+
+<br />
+  
+
+This workshop was part of [GopherConAU 2019](https://gophercon.com.au/)
+
+
+### Intro to Go for Complete Beginners
+*WORKSHOP*
+#### Description
+An introduction with lots of hands on practice
+- Development Environment
+- Programming Fundamentals
+- An introduction to the basic syntax of the language
+- Debugging
+
+#### Prerequisites
+None! If you already know, how to code, please consider William’s or/and Gary’s workshops.
+What an attendee is expected to learn
+- Learning in a friendly environment
+- The initial setup to get started with Go
+  
+
+  
