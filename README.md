@@ -1,5 +1,5 @@
 
-# Intro to Go for Complete Beginners Workshop
+# Intro to Go for Beginners Workshop
 
 [00 Introduction](./00_introduction.md)
 
