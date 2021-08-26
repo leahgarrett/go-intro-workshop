@@ -18,16 +18,6 @@ An introduction with lots of hands on practice
 
 <br />  
 
-## Today
-Breaks
-- Morning Break
-- Lunch midday
-- Afternoon Break  
-
-6pm finish
-
-<br />  
-
 ## Learning style
 - language immersion
 - sherpas
