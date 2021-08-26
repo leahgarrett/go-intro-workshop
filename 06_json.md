@@ -99,3 +99,15 @@ Create a `for` loop to count and display the results of each of the following
 [Mockaroo - Data Source for Mock Data](https://www.mockaroo.com/)  
 [JSON-to-Go - Convert JSON to Go struct](https://mholt.github.io/json-to-go/)
 [What is JSON?](https://stackoverflow.com/questions/383692/what-is-json-and-why-would-i-use-it)
+
+
+
+<br />
+
+<hr />
+
+<br />  
+
+
+[Next: Next Steps in README](https://github.com/leahgarrett/go-intro-workshop#next-steps)
+

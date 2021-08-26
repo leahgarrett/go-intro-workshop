@@ -1,7 +1,7 @@
 
 ## Intro to Go for Complete Beginners
 
-<img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GO_LEARN.png" />
+<img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GO_LEARN.png" width="256"/>
 
 
 
@@ -47,3 +47,13 @@ https://github.com/leahgarrett/go-intro-workshop
 ## Reference
  
 [Gopher Image](https://github.com/ashleymcnamara/gophers)
+
+<br />
+
+<hr />
+
+<br />  
+
+
+[Next: 01_intro_to_repl.it](https://github.com/leahgarrett/go-intro-workshop/blob/master/01_intro_to_repl.it.md)
+

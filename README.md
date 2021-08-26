@@ -38,14 +38,16 @@ What an attendee is expected to learn
 [05 Slices](./05_slices.md)
 
 [06 json](./06_json.md)
+ 
+<br /> 
+  
+## Next Steps  
+
+Go slack  
+https://invite.slack.golangbridge.org/    
 
 Step by Step using a Weather API   
 http://bit.ly/ShortGolangWorkshop
-
-## Next Steps
-
-Go slack . 
-https://invite.slack.golangbridge.org/    
 
 A step by step guide of Go:  
 [A Tour of Go](https://tour.golang.org/welcome/1)  

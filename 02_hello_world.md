@@ -152,3 +152,14 @@ The output should look like
 0.00 celsius to fahrenheit 32.00
 38.00 celsius to fahrenheit 100.40
 ```
+
+
+<br />
+
+<hr />
+
+<br />  
+
+
+[Next: 03_strings_and_user_input](https://github.com/leahgarrett/go-intro-workshop/blob/master/03_strings_and_user_input.md)
+

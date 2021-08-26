@@ -34,5 +34,15 @@ https://repl.it/@LeahGarrett/
 
 
 
+<br />
+
+<hr />
+
+<br />  
+
+
+[Next: 02_hello_world](https://github.com/leahgarrett/go-intro-workshop/blob/master/02_hello_world.md)
+
+
 
 

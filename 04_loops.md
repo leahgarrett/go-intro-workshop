@@ -158,3 +158,15 @@ Try commented out the following line and run and test.
 Change the `Guess the random number?` message to also display the maximum and minimum values. 
 
 Use `if` statements to check the value and display message for 'too high' and 'too low'
+
+
+
+<br />
+
+<hr />
+
+<br />  
+
+
+[Next: 05_slices](https://github.com/leahgarrett/go-intro-workshop/blob/master/05_slices.md)
+
