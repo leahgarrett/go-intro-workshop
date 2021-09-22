@@ -124,7 +124,7 @@ Ask the user for input about how wide the triangles will be.
 
 
 
-### Random numbers
+### Random numbers - guessing game
 Run and test the following code.
 ```go
 package main
@@ -158,6 +158,7 @@ Try commented out the following line and run and test.
 Change the `Guess the random number?` message to also display the maximum and minimum values. 
 
 Use `if` statements to check the value and display message for 'too high' and 'too low'
+
 
 
 
