@@ -40,7 +40,7 @@ A collections of exercises with mentor reviews:
 <br />
   
 
-This workshop was part of [GopherConAU 2019](https://gophercon.com.au/)
+This workshop is part of [GopherConAU 2023](https://gophercon.com.au/)
 
 
 ### Intro to Go for Complete Beginners
