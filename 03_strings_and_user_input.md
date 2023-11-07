@@ -135,5 +135,5 @@ func main() {
 <br />  
 
 
-[Next: 04_loops](https://github.com/leahgarrett/go-intro-workshop/blob/master/04_loops.md)
+[Next: 04_loops](/04_loops.md)
 

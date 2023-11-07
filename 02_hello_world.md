@@ -125,6 +125,23 @@ Output
 x % y = 1
 ```
 
+## Comments
+You can add notes to your code using comments. 
+
+You can use a comment to hide code and test things. 
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+  x := 7 // this variable is created as an integer
+  // y := 3
+  fmt.Println("x % y =", x % y)
+}
+```
+
 
 <hr>
 
@@ -161,5 +178,5 @@ The output should look like
 <br />  
 
 
-[Next: 03_strings_and_user_input](https://github.com/leahgarrett/go-intro-workshop/blob/master/03_strings_and_user_input.md)
+[Next: 03_strings_and_user_input](/03_strings_and_user_input.md)
 

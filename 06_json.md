@@ -75,7 +75,8 @@ func main() {
 }
 ```
 
-Add the following to the User `struct`
+Add the following to the User `struct`  
+Hint: you can use auto complete to help you
 - address
 - city
 - country
@@ -85,7 +86,7 @@ Add these values to the `Println` in the `for` loop.
 
 Add an `if` to the `for` loop to only display users with names longer then 5.
 
-Update your mock data  by copying the 1000 record data file [./data/mock_data.json](https://github.com/leahgarrett/go-intro-workshop/blob/master/data/MOCK_DATA.json)
+Update your mock data  by copying the 1000 record data file [./data/mock_data.json](/data/MOCK_DATA.json)
 
 Create a `for` loop that will display only Users from Australia.
 
@@ -109,5 +110,4 @@ Create a `for` loop to count and display the results of each of the following
 <br />  
 
 
-[Next: Next Steps in README](https://github.com/leahgarrett/go-intro-workshop#next-steps)
-
+[Next: 07_functions_and_review_exercises](/07_functions_and_review_exercises.md)

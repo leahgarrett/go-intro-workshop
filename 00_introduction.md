@@ -18,9 +18,20 @@ An introduction with lots of hands on practice
 
 <br />  
 
+## Today
+Breaks
+- Morning Break
+- Lunch 12.30pm
+- Afternoon break
+
+- 4.30pm finish
+- 5.00pm end
+
+<br />  
+
 ## Learning style
 - language immersion
-- sherpas
+- guided learning
 - no prize for finishing first
 
 <br />  
@@ -45,5 +56,5 @@ https://github.com/leahgarrett/go-intro-workshop
 <br />  
 
 
-[Next: 01_intro_to_repl.it](https://github.com/leahgarrett/go-intro-workshop/blob/master/01_intro_to_repl.it.md)
+[Next: 01_intro_to_repl.it](/01_intro_to_repl.it.md)
 

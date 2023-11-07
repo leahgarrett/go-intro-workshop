@@ -21,16 +21,17 @@ Integrate Development Environment
 ## Let's get started
 - https://repl.it/
 - sign-up
-- answer questions
+<img src="/images/replit-when-not-logged-in.png" width="480"/>
 - choose `Go` as the language
+<img src="/images/replit-choose-go.png" width="480"/>
 
 <br>  
 
-## The URL I will be working on
-https://repl.it/@LeahGarrett/  
+## The URL where I will be working
+https://replit.com/@LeahGarrett?path=folder/2023
 
-- you can copy this URL and changes will be saved in your copy
-(edited an unshared URL will fork the page)
+
+You can click open the repl I am working to open it locally. You can copy code or fork it to make your own version
 
 
 
@@ -41,7 +42,7 @@ https://repl.it/@LeahGarrett/
 <br />  
 
 
-[Next: 02_hello_world](https://github.com/leahgarrett/go-intro-workshop/blob/master/02_hello_world.md)
+[Next: 02_hello_world](/02_hello_world.md)
 
 
 

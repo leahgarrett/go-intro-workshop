@@ -99,5 +99,5 @@ func main() {
 <br />  
 
 
-[Next: 06_json](https://github.com/leahgarrett/go-intro-workshop/blob/master/06_json.md)
+[Next: 06_json](/06_json.md)
 

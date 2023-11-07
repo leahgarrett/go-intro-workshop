@@ -169,5 +169,5 @@ Use `if` statements to check the value and display message for 'too high' and 't
 <br />  
 
 
-[Next: 05_slices](https://github.com/leahgarrett/go-intro-workshop/blob/master/05_slices.md)
+[Next: 05_slices](/05_slices.md)
 
