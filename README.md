@@ -29,7 +29,7 @@ A step by step guide of Go:
 [A Tour of Go](https://tour.golang.org/welcome/1)  
 
 A collections of exercises with mentor reviews:  
-[exercism](https://exercism.io/my/tracks/go)
+[exercism](https://exercism.org/tracks/go)
 
   
 
