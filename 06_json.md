@@ -84,7 +84,7 @@ Hint: you can use auto complete to help you
 
 Add these values to the `Println` in the `for` loop.
 
-Add an `if` to the `for` loop to only display users with names lmore then 5 letters.
+Add an `if` to the `for` loop to only display users with names more then 5 letters.
 
 Update your mock data  by copying the 1000 record data file [./data/mock_data.json](/data/MOCK_DATA.json)
 
