@@ -31,6 +31,10 @@ A step by step guide of Go:
 A collections of exercises with mentor reviews:  
 [exercism](https://exercism.org/tracks/go)
 
+Guided projects with Go  
+https://gophercises.com/  
+https://courses.calhoun.io/courses/cor_gophercises  
+
   
 
 <br />  
