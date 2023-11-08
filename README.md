@@ -24,9 +24,9 @@ https://invite.slack.golangbridge.org/
 
 Step by Step using a Weather API   
 - http://bit.ly/ShortGolangWorkshop
-- https://github.com/leahgarrett/go-intro-workshop-wwc
+- Suggested solutions to this workshop https://github.com/leahgarrett/go-intro-workshop-wwc
 
-A step by step guide of Go:  
+A step by step guide to learning Go:  
 [A Tour of Go](https://tour.golang.org/welcome/1)  
 
 A collections of exercises with mentor reviews:  
