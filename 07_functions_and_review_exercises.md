@@ -110,5 +110,13 @@ Review the json app you created looking at where you can add functions.
 
 Extend the app to ask users for search terms.
 
+## Extra acitivties
+
+Follow along this step by step using a Weather API   
+http://bit.ly/ShortGolangWorkshop
+
+Use what you learnt from using the Weather API to call some free public APIs such as: 
+https://publicapis.io/icanhazdadjoke-api
+
 
 [Next: 099_end_notes](/099_end_notes.md)
