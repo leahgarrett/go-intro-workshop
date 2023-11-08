@@ -53,7 +53,7 @@ Easier to read and understand when using a function
 	y = calculateTemperature(x)
 ```
 
-Putting it together:ß
+Putting it together:
 ```go
 package main
 
